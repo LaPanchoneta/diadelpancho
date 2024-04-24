@@ -1,0 +1,45 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+
+}
+header{
+    font-family: fantasy;
+    display: flex;
+    justify-content: center;
+    
+}
+#pancho1{  
+    transform: scaleX(-1);
+    
+}
+#fecha{
+    display: flex;
+    justify-content: center;
+}
+
+.text1{
+    margin-left: auto;
+
+}
+.text2{
+    margin-right: 
+auto;
+}
+#Fondo{
+    background-image: url(source/pancho_de_fondo.jpg)
+}
+#contenedor1{
+    background-color:rgb(219, 167, 70);
+    width: 850px;
+    margin: auto;
+    padding: 2em;
+    opacity: 99%;  
+}
+    
+

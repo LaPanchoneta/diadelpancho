@@ -1,45 +1,52 @@
-*{
+* {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 
-.contenedor{
+.contenedor {
     display: flex;
     justify-content: center;
 
 }
-header{
+
+header {
     font-family: fantasy;
     display: flex;
     justify-content: center;
-    
+    margin-bottom: 10px;
 }
-#pancho1{  
+
+#pancho1 {
     transform: scaleX(-1);
-    
+
 }
-#fecha{
+
+#fecha {
     display: flex;
     justify-content: center;
 }
 
-.text1{
+.text1 {
     margin-left: auto;
 
 }
-.text2{
-    margin-right: 
-auto;
+
+.text2 {
+    margin-right:auto;
 }
-#Fondo{
+
+#Fondo {
     background-image: url(source/pancho_de_fondo.jpg)
 }
-#contenedor1{
-    background-color:rgb(219, 167, 70);
+
+#contenedor1 {
+    background-color: rgb(219, 167, 70);
     width: 850px;
     margin: auto;
     padding: 2em;
-    opacity: 99%;  
-}
-    
+    opacity: 99%;
 
+}
+#imagen_principal {
+    margin-bottom: 10px;
+}

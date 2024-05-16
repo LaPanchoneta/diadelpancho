@@ -15,7 +15,6 @@ header {
     justify-content: center;
     margin-bottom: 10px;
 }
-
 #pancho1 {
     transform: scaleX(-1);
 
@@ -33,6 +32,7 @@ header {
 
 .text2 {
     margin-right:auto;
+    padding-left: 10px;
 }
 
 #Fondo {
@@ -45,8 +45,10 @@ header {
     margin: auto;
     padding: 2em;
     opacity: 99%;
+    border: 1px;
 
 }
 #imagen_principal {
     margin-bottom: 10px;
+    margin-right: 10px;
 }
